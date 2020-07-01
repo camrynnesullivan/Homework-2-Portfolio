@@ -1,8 +1,37 @@
 h1 {
   font-family: "Saira Condensed", sans-serif;
-  font-weight: 500;
+  font-weight: 700;
+  font-size: x-large;
 }
 
 h2 {
   font-family: "Saira Condensed", sans-serif;
+  font-weight: 400;
+}
+
+h5 {
+  font-family: "Saira Condensed", sans-serif;
+  font-weight: 300;
+}
+
+a {
+  font-family: "Saira Condensed", sans-serif;
+  font-weight: 500;
+}
+
+.social a {
+  font-size: 4.5em;
+  padding: 3rem;
+}
+
+.fa-instagram {
+  color: #8134af;
+}
+
+.fa-linkedin-square {
+  color: #0077b5;
+}
+
+.fa-github {
+  color: black;
 }
