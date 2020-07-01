@@ -1,6 +1,6 @@
 #Responsive Portfolio
 
-This project I created a Responsive Portfolio Website that will feature upcoming projects I develop, information about me, and how to connect with me!
+I created a Responsive Portfolio Website that will feature upcoming projects information about who I am, and how to connect with me!
 
 This website is responsive to mobile phones as well as a variety of screen sizes from small to large.
 
